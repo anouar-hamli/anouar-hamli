@@ -32,7 +32,7 @@ Passionate junior developer focused on building structured, scalable software so
 - Git/GitHub Best Practices  
 
 ## 🤝 Let's Connect  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anouar-hamli-447464279/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/anouar-hamli-447464279/) 
 📧 Email: anouarhamli10@gmail.com  
 
 ✨ *"Code, Learn, Iterate – The journey never stops!"*  

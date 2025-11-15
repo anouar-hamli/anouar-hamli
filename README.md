@@ -1,82 +1,98 @@
-# 👋 Bienvenue sur mon profil GitHub
+# 👋 Welcome to My GitHub Profile
 
-✨ Je m'appelle **Anouar Hamli**, diplômé en **Systèmes et Réseaux Informatiques** 🖥️🌐 et actuellement étudiant en **Licence Professionnelle en Développement Informatique** 📚.
+✨ I'm **Anouar Hamli**, a graduate in **Computer Systems & Networks** and currently completing a **Professional Bachelor’s in Software Development**.
 
-💡 Passionné par le **développement backend**, l’**administration système**, la **virtualisation** et les **technologies DevOps** 🚀, je conçois et développe des solutions web modernes, performantes et sécurisées.
-
----
-
-## 🚀 Projets récents
-
-### 🔧 ManageIT v1
-📌 Application de gestion IT développée avec :  
-🐍 **Django (Python)** | 🗃️ **MySQL** | 🌐 **HTML/CSS/JavaScript** | 🎨 **Bootstrap** | 🐳 **Docker** | 🔒 **HTTPS**  
-
-🎯 **Objectif** : Digitaliser et simplifier la gestion du parc informatique de l’entreprise *Sofac*.
+I’m passionate about **Backend Engineering, Modern Web Development, Cloud, DevOps, and System Administration**.  
+I build **secure, scalable, and high-performance applications** using modern stacks.
 
 ---
 
-### 🔧 ManageIT v2
-🆙 Version avancée – **cloud-ready** et plus sécurisée.  
-🛠️ **Stack** : ⚛️ React.js + TypeScript | ☕ Spring Boot | 🗃️ MySQL | 🐳 Docker | ☁️ AWS EC2  
+## 🚀 Featured Projects
 
-🔐 **Fonctionnalités** :
-- ✔ CRUD des équipements IT  
-- 🔌 Intégration **LDAP (Active Directory)**  
-- 🔒 Authentification sécurisée via **JWT**  
-- 📊 Export **Excel & PDF**  
-- 🌍 Interface **multilingue**  
-- 🤖 Chatbot IA local (**TinyLLaMA + Ollama**)  
-- 📝 Documentation API (**Swagger**)  
-- 🔑 Gestion des secrets via **Vault**  
-- ⚙️ Déploiement et CI/CD : **Jenkins, GitHub Actions, Kubernetes**  
-- 🛡️ Sécurisation via **HTTPS**
+### 🔧 ManageIT v1 — IT Asset Management
+**Technologies:** Django, MySQL, HTML/CSS/JS, Bootstrap, Docker, HTTPS  
+**Goal:** Digitize IT asset management at Sofac.
 
 ---
 
-## 🛠️ Compétences techniques
+### 🔧 ManageIT v2 — Cloud-Ready & Secure
+**Stack:** React + TypeScript • Spring Boot • MySQL • Docker • AWS EC2 • Vault • Kubernetes  
 
-### Développement Backend
-- ☕ **Java** (Spring Boot : JPA, Security, REST APIs)  
-- 🐍 **Python** (Django, Django REST Framework)  
+**Features:**
+- IT equipment CRUD  
+- LDAP (Active Directory)  
+- JWT authentication  
+- Excel & PDF export  
+- Multi-language UI  
+- Local AI chatbot (TinyLLaMA + Ollama)  
+- Swagger documentation  
+- Vault for secrets  
+- CI/CD (Jenkins & GitHub Actions)  
+- Full HTTPS security  
+
+---
+
+### ⚡ E-Commerce Platform — Next.js + Spring Boot
+**Stack:** Next.js, TailwindCSS, Spring Boot, MySQL, Docker, GitHub Actions  
+
+**Features:**  
+- Modern UI with Next.js App Router  
+- Product catalog & filtering  
+- Authentication & roles  
+- Cart & order management  
+- Admin dashboard  
+- API-based secure architecture  
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+- Java (Spring Boot)
+- Python (Django & DRF)
 
 ### Frontend
-- ⚛️ **React.js + TypeScript**  
-- 🖌️ HTML, CSS, Bootstrap  
+- Next.js
+- React + TypeScript
+- TailwindCSS, Bootstrap
 
-### Bases de données
-- 🐬 **MySQL** : modélisation, requêtes, transactions, index  
+### Databases
+- MySQL (modeling, indexing, optimization)
 
-### Conteneurisation & DevOps
-- 🐳 Docker & Docker Compose  
-- ⚙️ CI/CD : Jenkins, GitHub Actions  
-- ☸️ Kubernetes  
-- ☁️ AWS EC2  
+### DevOps & Cloud
+- Docker, Docker Compose
+- Kubernetes
+- Jenkins CI/CD
+- GitHub Actions
+- AWS EC2
 
-### Systèmes & Réseaux
-- 🪟 Windows & Linux (administration)  
-- 🔌 Configuration routeurs, switches, services réseau  
+### Security
+- JWT  
+- LDAP / Active Directory  
+- HTTPS  
+- Vault  
 
-### Sécurité & Authentification
-- 🔑 JWT | 🏢 LDAP (Active Directory) | 🔒 HTTPS | Vault  
+### Systems & Networks
+- Linux & Windows admin  
+- Router/switch configuration  
 
-### Outils & Tests
-- 🔧 Git | GitHub  
-- 📄 Swagger | 📤 Postman  
-
-### Support Technique
-- 🎫 Gestion et résolution de tickets Helpdesk  
-- 🖥️ Maintenance et suivi du parc informatique  
-
----
-
-## 🎯 Objectif
-
-💼 Intégrer une équipe innovante où je peux :  
-✅ Mettre en pratique mes compétences backend et DevOps  
-🚀 Évoluer vers un rôle de développeur backend ou DevOps  
-🌍 Contribuer à des projets à fort impact technologique  
+### Tools
+- Git & GitHub  
+- Swagger  
+- Postman  
+- Figma  
 
 ---
 
-📩 **N'hésitez pas à me contacter pour échanger ou collaborer sur des projets ambitieux !** 🤝
+## 🎯 Career Objective
+
+I aim to join an innovative team where I can:
+- Build robust backend systems  
+- Work on DevOps & cloud pipelines  
+- Develop modern web apps with Next.js  
+- Grow as a **Backend or DevOps Engineer**
+
+---
+
+📩 **Let’s connect and collaborate!**
+

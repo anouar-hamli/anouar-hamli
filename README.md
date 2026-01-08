@@ -112,7 +112,7 @@ I enjoy turning complex challenges into **clear, elegant solutions**, and contin
 
 ---
 
-## 🧠 Engineering Mindset (Instead of GitHub Stats)
+## 🧠 Engineering Mindset 
 
 * Designing systems before writing code
 * Favoring **clarity, structure, and scalability**

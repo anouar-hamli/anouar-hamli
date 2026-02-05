@@ -122,6 +122,16 @@ I enjoy turning complex challenges into **clear, elegant solutions**, and contin
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-c0.vercel.app/)
+
+</div>
+
+---
+
 ## 📬 Contact Me
 
 <div align="center">

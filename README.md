@@ -145,19 +145,34 @@ philosophy: >
 
 ---
 
-## ◈ GitHub Stats
+---
 
-<div align="center">
+## ◈ What I'm Currently Working On
 
-<img src="https://github-readme-stats.vercel.app/api?username=anouarhamli&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github&card_width=320" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouarhamli&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&card_width=280" height="175"/>
+```yaml
+building:
+  - project  : Auto-École Management SaaS
+    desc     : Full platform for driving school management — students, instructors,
+               scheduling, payments and administrative workflows
+    role     : Full-Stack Developer
 
-<br/><br/>
+  - project  : Crystal — Clothing Brand Platform
+    desc     : End-to-end web presence & e-commerce for a clothing brand,
+               from product catalog to order management
+    role     : Full-Stack Developer
 
-<img src="https://streak-stats.demolab.com?user=anouarhamli&theme=dark&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&stroke=302b63" height="175"/>
+also_shipping:
+  - Document Management SaaS  # multi-role workflows, audit trail, traceability
 
-</div>
+learning_right_now:
+  - Kubernetes Advanced
+  - AWS Solutions Architect path
+
+open_to:
+  - Collaboration & open source
+  - Junior / Mid-level opportunities
+  - Freelance projects
+```
 
 ---
 

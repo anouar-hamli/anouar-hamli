@@ -1,145 +1,166 @@
 <div align="center">
 
-<h1>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"/>
-  Anouar Hamli
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anouar%20Hamli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20%7C%20DevOps%20Enthusiast&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anouarhamli.anouarhamli&style=flat-square)
+<br/>
 
-<h3>Backend Developer | Full-Stack Web Developer | DevOps Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+last%2C+evolve+%26+scale;Backend+%7C+Cloud+%7C+DevOps;Turning+complexity+into+elegant+solutions)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=anouarhamli.anouarhamli&style=for-the-badge&color=7c3aed)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ◈ About Me
 
-My journey into technology began with **networking and systems**, where I learned how infrastructure breathes beneath the surface, and how a small misconfiguration can ripple through an entire system.
-That foundation shaped the way I think about **stability, performance, and reliability**, long before users ever notice anything.
+```yaml
+name     : Anouar Hamli
+location : Morocco 🇲🇦
+role     : Backend Developer · Full-Stack Web Developer · DevOps Enthusiast
 
-Over time, curiosity pulled me toward **programming**, and I grew into a **Full-Stack Developer**, building applications end to end — from interface to core logic.
-I focus on crafting **scalable, well-structured systems**, with a strong interest in **Cloud Computing and DevOps**, where good ideas are transformed into reliable, living products.
+education:
+  - Graduate in Computer Systems & Networks
+  - Professional Bachelor in Software Development (in progress)
 
-I'm drawn to projects that demand **architectural thinking and real problem-solving**, not quick fixes.
-I enjoy turning complex challenges into **clear, elegant solutions**, and continuously pushing systems to be more **resilient, adaptable, and refined**.
+experience:
+  - IT Support & Full-Stack Intern @ Sofac
 
-> **My ambition is simple and serious:**
-> to leave a real mark, and to carve my name among those who don't just use technology,
-> **but shape how it evolves** ☁️⚙️🚀
+focus    : Backend Architecture · Cloud Computing · DevOps · Scalable Systems
+
+philosophy: >
+  I design systems before writing code.
+  I automate everything that can be automated.
+  I treat infrastructure as a first-class citizen.
+  My ambition — to carve my name among those who don't just use technology,
+  but shape how it evolves. ☁️ ⚙️ 🚀
+```
 
 ---
 
-### 👨‍💻 Background
-
-* 🎓 Graduate in **Computer Systems & Networks**
-* 📚 Currently pursuing a **Professional Bachelor in Software Development**
-* 💼 IT Support & Full-Stack Intern at **Sofac**
-* 🧠 Passionate about **Backend Development, Cloud & DevOps**
-
----
-
-## 🛠️ Tech Stack
+## ◈ Tech Stack
 
 ### 💻 Languages & Frameworks
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Django](https://img.shields.io/badge/Django-0f0c29?style=for-the-badge&logo=django&logoColor=a78bfa)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f0c29?style=for-the-badge&logo=springboot&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+
+</div>
+
+### 🧰 DevOps, Cloud & Databases
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f0c29?style=for-the-badge&logo=kubernetes&logoColor=a78bfa)
+![Jenkins](https://img.shields.io/badge/Jenkins-0f0c29?style=for-the-badge&logo=jenkins&logoColor=a78bfa)
+![Terraform](https://img.shields.io/badge/Terraform-0f0c29?style=for-the-badge&logo=terraform&logoColor=a78bfa)
+![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=a78bfa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa)
+![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa)
 
 </div>
 
 ---
 
-### 🧰 Databases & Tools
+## ◈ Specializations
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+| 🔷 Area | 🔹 Skills |
+|:--------|:----------|
+| **Backend** | Django · Spring Boot · REST APIs |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **DevOps** | Docker · Kubernetes · Jenkins · CI/CD |
+| **Cloud** | AWS — EC2 · S3 · IAM |
+| **Databases** | MySQL · PostgreSQL |
+| **Systems** | Linux · Networking · Infrastructure |
 
 </div>
 
 ---
 
-## 🎯 Specializations
+## ◈ Featured Projects
 
-| Area          | Skills                             |
-| ------------- | ---------------------------------- |
-| **Backend**   | Django, Spring Boot, REST APIs     |
-| **Frontend**  | React, Next.js, TypeScript, Tailwind CSS |
-| **DevOps**    | Docker, Kubernetes, Jenkins, CI/CD |
-| **Cloud**     | AWS (EC2, S3, IAM – Basics)        |
-| **Databases** | MySQL, PostgreSQL                  |
-| **Systems**   | Linux, Networking, Infrastructure  |
-
----
-
-## 📂 Featured Projects
-
-### 🟢 Active Projects
-
-| Project                              | Description                                                          | Tech                                                |
-| ------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------- |
-| **IT Stock Management**              | Internal system to manage company IT equipment                       | Django, MySQL                                       |
-| **Company Material Website**         | Script to organize internal materials                                | Python, Web                                         |
-| **E-Commerce Project**               | Scalable online store                                                | Django, React, Next.js                              |
-| **Lhiba Coffee — Brand Website**     | Full-stack coffee brand website · [Live ↗](https://lhiba-coffee.vercel.app/) | Django, PostgreSQL, React, TypeScript, Tailwind CSS |
-
----
-
-### 🔐 DevOps / Learning Projects
-
-| Project                    | Description                          | Tools           |
-| -------------------------- | ------------------------------------ | --------------- |
-| **CI/CD Pipeline**         | Automated build, test & deployment   | Jenkins, Docker |
-| **Containerized App**      | Production-ready containerized stack | Docker Compose  |
-| **Infrastructure as Code** | Cloud automation & provisioning      | Terraform       |
-
----
-
-## 🧠 Engineering Mindset
-
-* Designing systems before writing code
-* Favoring **clarity, structure, and scalability**
-* Automating everything that can be automated
-* Treating infrastructure as a **first-class citizen**
-* Building software meant to **last, evolve, and scale**
-
----
-
-## 🌐 Portfolio
+### 🟢 Live Projects
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-c0.vercel.app/)
+| 🚀 Project | 📝 Description | 🛠 Tech Stack |
+|:-----------|:---------------|:-------------|
+| **[Lhiba Coffee ↗](https://lhiba-coffee.vercel.app/)** | Full-stack coffee brand website — live & deployed | Django · PostgreSQL · React · TypeScript · Tailwind |
+| **[Obito Tribute ↗](https://anouar-hamli.github.io/OBITO/)** | Fun, interactive character tribute with clean layout, storytelling & smooth animations | HTML · CSS · JavaScript |
+| **IT Stock Management** | Internal system to manage company IT equipment | Django · MySQL |
+| **E-Commerce Platform** | Scalable online store — end to end | Django · React · Next.js |
+| **Company Material Portal** | Script to organize & serve internal materials | Python · Web |
+
+</div>
+
+### 🔐 DevOps / Infrastructure Projects
+
+<div align="center">
+
+| 🔧 Project | 📝 Description | 🛠 Tools |
+|:-----------|:---------------|:---------|
+| **CI/CD Pipeline** | Automated build, test & deployment workflow | Jenkins · Docker |
+| **Containerized App** | Production-ready multi-service containerized stack | Docker Compose |
+| **Infrastructure as Code** | Cloud automation & provisioning | Terraform |
 
 </div>
 
 ---
 
-## 📬 Contact Me
+## ◈ Engineering Mindset
+
+```
+◈  Design systems before writing code
+◈  Favor clarity, structure, and scalability
+◈  Automate everything that can be automated
+◈  Treat infrastructure as a first-class citizen
+◈  Build software meant to last, evolve, and scale
+```
+
+---
+
+## ◈ GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-hamli-447464279/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anouarhamli10@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamli18574)
+<img src="https://github-readme-stats.vercel.app/api?username=anouarhamli&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouarhamli&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&border_radius=12" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anouarhamli&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" height="180"/>
+
+</div>
+
+---
+
+## ◈ Portfolio & Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa&label=&labelColor=0f0c29)](https://portfolio-c0.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/anouar-hamli-447464279/)
+[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:anouarhamli10@gmail.com)
+[![X](https://img.shields.io/badge/X-0f0c29?style=for-the-badge&logo=x&logoColor=a78bfa)](https://x.com/hamli18574)
 
 </div>
 
@@ -147,6 +168,6 @@ I enjoy turning complex challenges into **clear, elegant solutions**, and contin
 
 <div align="center">
 
-⭐ **Always learning. Always building. Always improving systems.** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Always%20learning.%20Always%20building.%20Always%20improving.&fontSize=16&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>

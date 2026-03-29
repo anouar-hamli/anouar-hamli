@@ -154,7 +154,7 @@ building:
   - project  : Auto-École Management SaaS
     desc     : Full platform for driving school management — students, instructors,
                scheduling, payments and administrative workflows
-    role     : Full-Stack Developer
+    role     : Backend Developer
 
   - project  : Crystal — Clothing Brand Platform
     desc     : End-to-end web presence & e-commerce for a clothing brand,

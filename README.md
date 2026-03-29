@@ -107,7 +107,7 @@ philosophy: >
 | **[Obito Tribute ↗](https://anouar-hamli.github.io/OBITO/)** | Fun, interactive character tribute with clean layout, storytelling & smooth animations | HTML · CSS · JavaScript |
 | **IT Stock Management** | Internal system to manage company IT equipment | Django · MySQL |
 | **E-Commerce Platform** | Scalable online store — end to end | Django · React · Next.js |
-| **Company Material Portal** | Script to organize & serve internal materials | Python · Web |
+| **Document Management SaaS** | Secure SaaS for document workflows & traceability — multi-role access, validation workflows, audit trail & scalable structure | Django · React · PostgreSQL |
 
 </div>
 
@@ -141,13 +141,13 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anouarhamli&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anouarhamli&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github&card_width=320" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouarhamli&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&border_radius=12" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouarhamli&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&card_width=280" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anouarhamli&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" height="180"/>
+<img src="https://streak-stats.demolab.com?user=anouarhamli&theme=dark&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&stroke=302b63" height="175"/>
 
 </div>
 

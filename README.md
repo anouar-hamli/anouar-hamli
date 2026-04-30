@@ -111,6 +111,7 @@ philosophy: >
 
 | 🚀 Project | 📝 Description | 🛠 Tech Stack |
 |:-----------|:---------------|:-------------|
+| **[Crystal ↗](https://crystal-shop-black.vercel.app/home)** | Full-stack e-commerce platform for a refined clothing brand — product catalog, collections, bilingual (EN/ES), responsive & deployed worldwide | Spring Boot · Next.js · MySQL · Tailwind CSS |
 | **[Lhiba Coffee ↗](https://lhiba-coffee.vercel.app/)** | Full-stack coffee brand website — live & deployed | Django · PostgreSQL · React · TypeScript · Tailwind |
 | **[Obito Tribute ↗](https://anouar-hamli.github.io/OBITO/)** | Fun, interactive character tribute with clean layout, storytelling & smooth animations | HTML · CSS · JavaScript |
 | **IT Stock Management** | Internal system to manage company IT equipment | Django · MySQL |
@@ -118,6 +119,44 @@ philosophy: >
 | **Document Management SaaS** | Secure SaaS for document workflows & traceability — multi-role access, validation workflows, audit trail & scalable structure | Django · React · PostgreSQL |
 
 </div>
+
+### 🔮 Crystal — Clothing Brand Platform
+
+> *Minimal design, refined details, and timeless pieces.*
+
+<div align="center">
+
+[![Crystal Live](https://img.shields.io/badge/Live%20Demo-crystal--shop--black.vercel.app-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://crystal-shop-black.vercel.app/home)
+
+</div>
+
+```yaml
+project  : Crystal — E-Commerce Fashion Platform
+url      : https://crystal-shop-black.vercel.app/home
+role     : Full-Stack Developer
+
+description: >
+  End-to-end web presence and e-commerce platform for CRYSTAL, a refined clothing brand.
+  From product catalog to collections, the platform is built for a global audience
+  with a bilingual experience (English / Spanish) and a clean, minimalist aesthetic
+  inspired by the brand's identity — timeless elegance meets modern design.
+
+features:
+  - Bilingual support          : English (EN) & Spanish (ES)
+  - Product catalog            : Items with multiple colors, sizes & categories
+  - Collections & Lookbook     : Men's, Women's, Streetwear, Tuniques, Accessories
+  - Brand storytelling         : About page, philosophy & visual identity
+  - Newsletter subscription    : Exclusive drops & offers
+  - Responsive design          : Mobile-first, optimized for all devices
+  - Global reach               : Deployed on Vercel — worldwide CDN
+
+stack:
+  frontend : Next.js · TypeScript · Tailwind CSS
+  backend  : Spring Boot (Java) · REST APIs
+  database : MySQL
+  deploy   : Vercel
+  i18n     : EN / ES bilingual routing
+```
 
 ### 🔐 DevOps / Infrastructure Projects
 
@@ -145,21 +184,21 @@ philosophy: >
 
 ---
 
----
-
 ## ◈ What I'm Currently Working On
 
 ```yaml
 building:
+  - project  : Crystal — Clothing Brand Platform
+    desc     : End-to-end web presence & e-commerce for a clothing brand,
+               from product catalog to order management — bilingual (EN/ES),
+               global audience, live at crystal-shop-black.vercel.app
+    role     : Full-Stack Developer
+    status   : 🟢 Live
+
   - project  : Auto-École Management SaaS
     desc     : Full platform for driving school management — students, instructors,
                scheduling, payments and administrative workflows
     role     : Backend Developer
-
-  - project  : Crystal — Clothing Brand Platform
-    desc     : End-to-end web presence & e-commerce for a clothing brand,
-               from product catalog to order management
-    role     : Full-Stack Developer
 
 also_shipping:
   - Document Management SaaS  # multi-role workflows, audit trail, traceability
